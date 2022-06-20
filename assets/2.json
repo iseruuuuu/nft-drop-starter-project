@@ -1,0 +1,19 @@
+{
+  "name": "SPY",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "HXtA14f2dhKRVS1fG1e9VLvqgucKsYjoCzpR8nem9D21",
+        "share": 100
+      }
+    ]
+  }
+}
